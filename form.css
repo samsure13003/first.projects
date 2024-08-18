@@ -7,3 +7,19 @@ body{
     text-align: center;
     background-color: beige;
 }
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+    font-size: larger;
+    border: 5px solid darkblue;
+    border-radius: 10px;
+}
+a:active{
+    color:darkgoldenrod;
+}
+a:visited{
+    color:black;
+}
